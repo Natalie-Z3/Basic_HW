@@ -1,0 +1,26 @@
+Bug_id: 1
+
+Title/Summary: (Заголовок/описание ошибки Что? Когда? Где? / Что Где При каких условиях).
+
+Severity: (серьёзность)
+	Blocker 
+	Critical 
+	Major 
+	Minor 
+
+Priority: (приоритет)
+	P1 High 
+	P2 Medium 
+	P3 Low 
+
+Environment: (Окружение, тестовая среда).
+
+Precondition: (Предусловие для воспроизведение бага).
+
+STR: (Steps To Reproduse - Шаги воспроизведения.
+
+AR: (Actual result - Актуальный результат).
+
+ER: (Expected result - Ожидаемый результат).
+
+Attachments: (вложения) Картинки, скриншоты или видео воспроизведения бага.
