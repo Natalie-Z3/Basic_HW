@@ -1,0 +1,39 @@
+{
+	"id": "40cc5c27-cfe0-494b-b49f-e9eb469deaf4",
+	"name": "Natalie_Z_Envi_HW_3",
+	"values": [
+		{
+			"key": "url",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "age",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "salary",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "u_salary_1_5_year",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-10-22T13:11:08.269Z",
+	"_postman_exported_using": "Postman/9.1.1"
+}
